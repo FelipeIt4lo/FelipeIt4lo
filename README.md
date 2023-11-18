@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/FelipeIt4lo/FelipeIt4lo/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px" width=100% />&nbsp;&nbsp;&nbsp;
 
 <p align="center">Eu ❤️ Resolver problemas usando tecnlogia!<br><br> Desde backend usando Python Flask até desenvolvendo frontend usando ReactTS, Eu sou <strong> Apaixonado em descobrir coisas novas </strong> e usá-las para criar soluções de boa qualidade. Atualmente, sou um <strong> desenvolvedor full stack </strong> focado no desenvolvimento web.</p>&nbsp;
 
