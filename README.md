@@ -1,9 +1,9 @@
 <p align="center">Eu ❤️ Resolver problemas usando tecnlogia!<br><br> Desde backend usando Python Flask até desenvolvendo frontend usando ReactTS, Eu sou <strong> Apaixonado em descobrir coisas novas </strong> e usá-las para criar soluções de boa qualidade. Atualmente, sou um <strong> desenvolvedor full stack </strong> focado no desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIt4lo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
 <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeIt4lo&theme=radical&mode=weekly"/>
 <img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=FelipeIt4lo&show_icons=true&theme=dracula&count_private=true"/>
+<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIt4lo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
 </div>
  
  &nbsp;
