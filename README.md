@@ -3,6 +3,7 @@
 <div  align="center" style="margin-bottom:100px">
 <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeIt4lo&theme=radical&mode=weekly"/>
 <img width=45% align="center"  src="https://github-readme-stats.vercel.app/api?username=FelipeIt4lo&show_icons=true&theme=dracula&count_private=true"/>
+<img width=40% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIt4lo&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117"/>
 
 </div>
  
