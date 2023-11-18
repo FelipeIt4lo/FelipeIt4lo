@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100%/>&nbsp;&nbsp;&nbsp;
+<img align="center" style="margin-bottom:100px" width=100%/>&nbsp;
 
 <p align="center">Eu ❤️ Resolver problemas usando tecnlogia!<br><br> Desde backend usando Python Flask até desenvolvendo frontend usando ReactTS, Eu sou <strong> Apaixonado em descobrir coisas novas </strong> e usá-las para criar soluções de boa qualidade. Atualmente, sou um <strong> desenvolvedor full stack </strong> focado no desenvolvimento web.</p>&nbsp;
 
