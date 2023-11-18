@@ -1,5 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100%/>
-
 <p align="center">Eu ❤️ Resolver problemas usando tecnlogia!<br><br> Desde backend usando Python Flask até desenvolvendo frontend usando ReactTS, Eu sou <strong> Apaixonado em descobrir coisas novas </strong> e usá-las para criar soluções de boa qualidade. Atualmente, sou um <strong> desenvolvedor full stack </strong> focado no desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -31,12 +29,10 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
 
-#### Estudando no momento:
-
 #### Banco de dados:
 
-MySQL <br><br>
-Postgresql
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Programas de trabalho:
 
@@ -52,3 +48,5 @@ Postgresql
 <a href="https://www.instagram.com/felipe_it4lo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:felipeipp_91@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipeit4lo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>&nbsp;&nbsp;
+
+img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
