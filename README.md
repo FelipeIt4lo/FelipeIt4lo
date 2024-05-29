@@ -1,6 +1,4 @@
-<p align="center">I ❤️ Solving problems using technology!<br><br> 
-Utilizo Java como linguagem principal, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>desenvolvedor back-end</strong> focado em 
-análise de dados.</p>&nbsp;
+<p align="center">I ❤️ Solving problems using technology!<br><br> I use Java as my main language, I am <strong>Passionate about discovering new things</strong> and using them to create high-quality solutions. Currently, I am a <strong>back-end developer</strong> focused on data analysis.</strong></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeIt4lo&theme=radical&mode=weekly"/>
@@ -14,9 +12,9 @@ análise de dados.</p>&nbsp;
 
 
 
-## Minhas habilidades
+## My skills
 
-#### Linguagens:
+#### Languages:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -24,7 +22,7 @@ análise de dados.</p>&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Tecnologias:
+#### Technologies:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -33,13 +31,13 @@ análise de dados.</p>&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-#### Banco de dados:
+#### Database:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### Programas de trabalho:
+#### Work programs:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -48,7 +46,7 @@ análise de dados.</p>&nbsp;
 &nbsp;
 &nbsp;
 
-## Contatos:
+## Contacts:
 
 <div> 
 <a href="https://www.instagram.com/felipe_it4lo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
