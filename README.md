@@ -1,4 +1,6 @@
-<p align="center">I ❤️ Solving problems using technology!<br><br> From backend using Python Flask to developing frontend using ReactTS, I am <strong>Passionate about discovering new things</strong> and using them to create high-quality solutions. Currently, I am a <strong>full-stack developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ Solving problems using technology!<br><br> 
+Utilizo Java como linguagem principal, sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Atualmente, sou um <strong>desenvolvedor back-end</strong> focado em 
+análise de dados.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=47% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeIt4lo&theme=radical&mode=weekly"/>
