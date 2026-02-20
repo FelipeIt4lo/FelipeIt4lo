@@ -1,70 +1,75 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=150&section=header&text=Felipe%20Italo&fontSize=50&animation=fadeIn" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=200&section=header&text=Olá,%20eu%20sou%20o%20Felipe!%20👋&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-<p align="center">
-  <strong>Software Engineer | Java specialist | Data Enthusiast</strong>
-</p>
+<h3 align="center">Software Engineer | Java Specialist | Data Analysis Enthusiast</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/felipeit4lo/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipeit4lo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:felipeipp_91@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="mailto:felipeipp_91@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.instagram.com/felipe_it4lo/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/felipe_it4lo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
-
----
-
-### 👨‍💻 Sobre mim
-
-Sou um **Desenvolvedor Back-end** com foco em soluções escaláveis utilizando o ecossistema **Java**. Atualmente, estou direcionando minha carreira para a **Análise de Dados**, unindo a robustez do desenvolvimento de software com a inteligência de negócios.
-
-* 🔭 Atualmente trabalhando em projetos de **Back-end e Data Analysis**.
-* 🌱 Aprofundando conhecimentos em **Python para Ciência de Dados** e **Arquitetura de Microserviços**.
-* 💬 Apaixonado por resolver problemas complexos através de código limpo e eficiente.
-
----
-
-### 🛠️ Skills & Ferramentas
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Ilustração">
-
-#### 🟦 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🟩 Frameworks & Tecnologias
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-
-#### 🟨 Banco de Dados & Ferramentas
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</div>
 
 <br>
 
+## 👨‍💻 Sobre mim
+
+Sou um **Desenvolvedor Back-end** apaixonado por resolver problemas complexos através da tecnologia. Tenho o **Java** como minha principal linguagem, construindo soluções robustas e de alta qualidade. 
+
+Atualmente, estou expandindo meus horizontes para a **Análise de Dados**, combinando a engenharia de software com a inteligência de negócios para criar aplicações que não apenas funcionam, mas geram valor real.
+
+- 🔭 Trabalhando com arquiteturas escaláveis em desenvolvimento Back-end.
+- 🌱 Aprofundando estudos no ecossistema Python para dados e otimização de queries.
+- 💡 Focado em escrever código limpo, manutenível e focado na performance.
+
 ---
 
-### 📈 Estatísticas
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeIt4lo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIt4lo&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="center">
+  <p><strong>Linguagens & Back-end</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,js&theme=dark" />
+  </a>
+  
+  <br><br>
+  
+  <p><strong>Bancos de Dados</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle&theme=dark" />
+  </a>
+
+  <br><br>
+
+  <p><strong>Front-end, DevOps & Ferramentas</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,angular,git,docker,vscode,idea&theme=dark" />
+  </a>
+</div>
 
 ---
 
-### 🔥 My Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeIt4lo&theme=dracula" alt="felipeitalo-streak" />
-</p>
+## 📊 Minha Jornada & Contribuições
+
+<div align="center">
+  <p>Consistência e evolução contínua no desenvolvimento de software.</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeIt4lo&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeIt4lo/FelipeIt4lo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeIt4lo/FelipeIt4lo/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FelipeIt4lo/FelipeIt4lo/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
