@@ -56,9 +56,10 @@ Sou um **Desenvolvedor Back-end** com foco em soluções escaláveis utilizando 
 ---
 
 ### 📈 Estatísticas
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeit4lo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeit4lo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeitalo&show_icons=true&theme=visual_studio_code&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeitalo&layout=compact&langs_count=7&theme=visual_studio_code"/>
 </p>
 
 <p align="center">
