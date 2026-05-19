@@ -17,7 +17,6 @@
   <a href="https://drive.google.com/file/d/1g7TqhAUEWutfEb_K28cbuDoGe9NUJksw/view" target="_blank">
     <img src="https://img.shields.io/badge/-Resume%20(ENG)-3fd6c4?style=for-the-badge&logo=readme&logoColor=0f1117"/>
   </a>&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=FelipeIt4lo&color=6c8fff&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
 
 <br>
@@ -136,11 +135,6 @@ My main strength is **Java + advanced PL/SQL** in large-scale enterprise environ
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FelipeIt4lo&show_icons=true&hide_border=true&bg_color=0f1117&title_color=6c8fff&icon_color=3fd6c4&text_color=b0b6c8&count_private=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeIt4lo&layout=compact&hide_border=true&bg_color=0f1117&title_color=6c8fff&text_color=b0b6c8&langs_count=6" />
-</div>
 
 <br>
 
