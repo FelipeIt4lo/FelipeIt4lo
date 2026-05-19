@@ -18,7 +18,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um **Desenvolvedor Back-end** apaixonado por resolver problemas complexos através da tecnologia. Tenho o **Java** como minha principal linguagem, construindo soluções robustas e de alta qualidade. 
+Sou um **Desenvolvedor Full-Stack** apaixonado por resolver problemas complexos através da tecnologia. Tenho o **Java** como minha principal linguagem, porém, onde possuo mais experiência é na área de dados com o uso do SQL avançado, construindo soluções robustas e de alta qualidade. 
 
 Atualmente, estou expandindo meus horizontes para a **Análise de Dados**, combinando a engenharia de software com a inteligência de negócios para criar aplicações que não apenas funcionam, mas geram valor real.
 
