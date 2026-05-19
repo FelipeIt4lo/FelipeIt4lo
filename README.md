@@ -5,18 +5,10 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/felipeit4lo/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;
-  <a href="mailto:felipeipp_91@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-6c8fff?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/felipe_it4lo/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://drive.google.com/file/d/1g7TqhAUEWutfEb_K28cbuDoGe9NUJksw/view" target="_blank">
-    <img src="https://img.shields.io/badge/-Resume%20(ENG)-3fd6c4?style=for-the-badge&logo=readme&logoColor=0f1117"/>
-  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/felipeit4lo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:felipeipp_91@hotmail.com"><img src="https://img.shields.io/badge/-Email-6c8fff?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/></a>&nbsp;
+  <a href="https://www.instagram.com/felipe_it4lo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>&nbsp;
+  <a href="https://drive.google.com/file/d/1g7TqhAUEWutfEb_K28cbuDoGe9NUJksw/view" target="_blank"><img src="https://img.shields.io/badge/-Resume%20(ENG)-3fd6c4?style=for-the-badge&logo=readme&logoColor=0f1117"/></a>
 </div>
 
 <br>
