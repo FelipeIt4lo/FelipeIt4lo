@@ -136,10 +136,6 @@ My main strength is **Java + advanced PL/SQL** in large-scale enterprise environ
 
 <br>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeIt4lo&bg_color=0f1117&color=6c8fff&line=3fd6c4&point=ffffff&area=true&hide_border=true&area_color=6c8fff" />
-</div>
-
 ---
 
 <div align="center">
